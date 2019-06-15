@@ -1,0 +1,36 @@
+Hypothesis
+Presenting the data to allow individuals to come to their own conclusions whether or not global warming is a real thing. 
+We must be sure to present data that support both claims and stories on how you can portray the data. 
+(possibly explore the idea of how data manipulation and how you portray the data can skew the story to a side when manipulated properly)
+
+Source
+https://datahub.io/core/co2-fossil-by-nation
+•	DATA GIVEN:
+o	CO2 Emissions
+o	Year (Dates back to 1800s)
+o	Type of Emissions (Gas, liquid, solid)
+https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data#GlobalLandTemperaturesByCity.csv
+•	DATA GIVEN:
+o	Average Land Temperature
+o	Year (Dates back to 1800s)
+o	State
+o	City
+o	Longitude
+o	Lattitude
+https://www.ncdc.noaa.gov/stormevents/ftp.jsp
+•	DATA GIVEN
+o	State
+o	Year (Back to 1950s)
+o	Event type (Thunderstorm, Tornado, etc)
+o	Magnitude
+o	Tornado Rating
+
+Project Plan
+Objectives
+•	
+
+Planned Visuals
+•	Graph portraying the increase in CO2 emissions by country
+•	Possible heat map showing the average temperatures by country
+o	Possibly show 25 year progressions? 
+•	A graph to properly reflect the amount of extreme weather events
