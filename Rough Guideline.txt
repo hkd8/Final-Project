@@ -34,3 +34,4 @@ Planned Visuals
 •	Possible heat map showing the average temperatures by country
 o	Possibly show 25 year progressions? 
 •	A graph to properly reflect the amount of extreme weather events
+•	For loop, loop through get averages of change per year, take the average change, multiple by last year, insert new data into new row, iterate through as much as we want
