@@ -3,6 +3,13 @@ Presenting the data to allow individuals to come to their own conclusions whethe
 We must be sure to present data that support both claims and stories on how you can portray the data. 
 (possibly explore the idea of how data manipulation and how you portray the data can skew the story to a side when manipulated properly)
 
+
+Things to accomplish:
+
+
+
+
+
 Source
 https://datahub.io/core/co2-fossil-by-nation
 •	DATA GIVEN:
@@ -35,3 +42,12 @@ Planned Visuals
 o	Possibly show 25 year progressions? 
 •	A graph to properly reflect the amount of extreme weather events
 •	For loop, loop through get averages of change per year, take the average change, multiple by last year, insert new data into new row, iterate through as much as we want
+
+Hypothesis: Enviromentals regulations have decreased the concentration in the atmosphere of greenhouse emissions. 
+Conclusion: Regulations have not been effective towards the decrease of greenhouse emissions.
+
+What we need to do:
+History of the top 5 chemical emissions from the random forests
+Get a good history of enviormental regulations between the dates of 1950 to 2014
+
+Things to accomplish:
